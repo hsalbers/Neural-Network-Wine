@@ -1,0 +1,1 @@
+This neural network is used to predict the quality of white wine using a regression model. The data being used comes from the Machine Learning Repository, https://archive.ics.uci.edu/ml/datasets/Wine+Quality. 
